@@ -1,5 +1,17 @@
 # Notes for Classes
 
+## Linux
+1. [Introduction to Linux](linux/1-intro-linux.md)
+2. [Filesystem Hierarchy](linux/2-filesystem-hierarchy.md)
+3. [File Pathnames](linux/3-file-pathnames.md)
+4. [Binary Conversion and Permissions](linux/4-binary-conversion-permissions.md)
+5. [Sequences and Redirection](linux/5-sequences-redirection.md)
+6. [File Transfer via Email](linux/6-file-transfer-email.md)
+7. [Links, Processes and Aliases](linux/7-links-processes-aliases.md)
+8. [Regular Expressions](linux/8-regular-expressions.md)
+9. [sed and awk](linux/9-sed-awk.md)
+10. [Shell Scripts](linux/10-shell-scripts.md)
+
 ## C
 1. [Introduction to C](c/1-intro-c.md)
 2. [Operators and Boolean Conversion](c/2-operators-bool-conversion.md)
