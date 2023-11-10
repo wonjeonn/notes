@@ -12,6 +12,17 @@
 9. [Polymorphism, Virtual Functions](cpp/9-0-polymorphism-virtual.md)
 10. [Abstract Base Classes](cpp/9-1-abstract-base-classes.md)
 
+## SQL
+1. [Database Systems](sql/1-database-systems.md)
+2. [SQL Fundamentals](sql/2-fundamentals.md)
+3. [Data Manipulation Language (DML)](sql/3-dml.md)
+4. [Joins and Views](sql/4-joins-views.md)
+5. [Data Definition Language (DDL)](sql/5-ddl.md)
+6. [Transactions and Security](sql/6-transactions-security.md)
+7. [Functions and Conditions](sql/7-functions-conditions.md)
+8. [Entity Relationship Model (ERM)](sql/8-erm.md)
+9. [Normalization](sql/9-normalization.md)
+
 ## Linux
 1. [Introduction to Linux](linux/1-intro-linux.md)
 2. [Filesystem Hierarchy](linux/2-filesystem-hierarchy.md)
