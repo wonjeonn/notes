@@ -11,6 +11,8 @@
 8. [Inheritance and Derived Classes](cpp/8-inheritance-derived-classes.md)
 9. [Polymorphism, Virtual Functions](cpp/9-0-polymorphism-virtual.md)
 10. [Abstract Base Classes](cpp/9-1-abstract-base-classes.md)
+11. [Derived Classes and Resources](cpp/10-derived-resources.md)
+12. [Function Templates and Constrained Casts](cpp/11-templates.md)
 
 ## Web
 1. [Introduction to Web Development with JavaScript](web/1-intro-web-development-js.md)

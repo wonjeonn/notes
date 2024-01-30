@@ -10,3 +10,5 @@
 8. [Inheritance and Derived Classes](8-inheritance-derived-classes.md)
 9. [Polymorphism, Virtual Functions](9-0-polymorphism-virtual.md)
 10. [Abstract Base Classes](9-1-abstract-base-classes.md)
+11. [Derived Classes and Resources](10-derived-resources.md)
+12. [Function Templates and Constrained Casts](11-templates.md)
