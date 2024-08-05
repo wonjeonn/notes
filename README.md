@@ -35,6 +35,12 @@
 7. [Functions and Conditions](sql/7-functions-conditions.md)
 8. [Entity Relationship Model (ERM)](sql/8-erm.md)
 9. [Normalization](sql/9-normalization.md)
+10. [PL/SQL Functions and Cursors](sql/10-functions-cursors.md)
+
+## MongoDB
+1. [Introduction to MongoDB](mongo/1-intro.md)
+2. [MongoDB CRUD Operations](mongo/2-crud.md)
+3. [MongoDB Aggregation](mongo/3-aggregation.md)
 
 ## Linux
 1. [Introduction to Linux](linux/1-intro-linux.md)

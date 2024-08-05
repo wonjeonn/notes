@@ -9,3 +9,4 @@
 7. [Functions and Conditions](7-functions-conditions.md)
 8. [Entity Relationship Model (ERM)](8-erm.md)
 9. [Normalization](9-normalization.md)
+10. [PL/SQL Functions and Cursors](10-functions-cursors.md)
