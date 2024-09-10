@@ -1,6 +1,10 @@
 # Notes for Classes
 
-## C++
+## [Data Structures and Algorithms](dsa/README.md)
+1. [Basics of Python](dsa/1-basics-of-python.md)
+2. [Algorithm Analysis](dsa/2-algorithm-analysis.md)
+
+## [C++](cpp/README.md)
 1. [Introduction to C++](cpp/1-intro-cpp.md)
 2. [Member Functions and Privacy](cpp/2-member-functions.md)
 3. [Current Object and Member Operator](cpp/3-current-object-member-operator.md)
@@ -14,10 +18,10 @@
 11. [Derived Classes and Resources](cpp/10-derived-resources.md)
 12. [Function Templates and Constrained Casts](cpp/11-templates.md)
 
-## Web
+## [Web Development](web/README.md)
 1. [Introduction to Web Development with JavaScript](web/1-intro-web-development-js.md)
 2. [JavaScript Functions and Scope](web/2-js-functions-scope.md)
-3. [JavaScript Strings, Arrays and Regular Expressions](web/3-js-string-array-regExp.md)
+3. [JavaScript Strings, Arrays, and Regular Expressions](web/3-js-string-array-regExp.md)
 4. [JavaScript Objects](web/4-js-objects.md)
 5. [Introduction to HTML](web/5-intro-html.md)
 6. [HTML Element Types](web/6-html-element-types.md)
@@ -25,7 +29,7 @@
 8. [Cascading Style Sheets (CSS)](web/8-css.md)
 9. [HTML Input Forms](web/9-html-forms.md)
 
-## SQL
+## [SQL](sql/README.md)
 1. [Database Systems](sql/1-database-systems.md)
 2. [SQL Fundamentals](sql/2-fundamentals.md)
 3. [Data Manipulation Language (DML)](sql/3-dml.md)
@@ -37,24 +41,24 @@
 9. [Normalization](sql/9-normalization.md)
 10. [PL/SQL Functions and Cursors](sql/10-functions-cursors.md)
 
-## MongoDB
+## [MongoDB](mongo/README.md)
 1. [Introduction to MongoDB](mongo/1-intro.md)
 2. [MongoDB CRUD Operations](mongo/2-crud.md)
 3. [MongoDB Aggregation](mongo/3-aggregation.md)
 
-## Linux
+## [Linux](linux/README.md)
 1. [Introduction to Linux](linux/1-intro-linux.md)
 2. [Filesystem Hierarchy](linux/2-filesystem-hierarchy.md)
 3. [File Pathnames](linux/3-file-pathnames.md)
 4. [Binary Conversion and Permissions](linux/4-binary-conversion-permissions.md)
 5. [Sequences and Redirection](linux/5-sequences-redirection.md)
 6. [File Transfer via Email](linux/6-file-transfer-email.md)
-7. [Links, Processes and Aliases](linux/7-links-processes-aliases.md)
+7. [Links, Processes, and Aliases](linux/7-links-processes-aliases.md)
 8. [Regular Expressions](linux/8-regular-expressions.md)
 9. [sed and awk](linux/9-sed-awk.md)
 10. [Shell Scripts](linux/10-shell-scripts.md)
 
-## C
+## [C Programming](c/README.md)
 1. [Introduction to C](c/1-intro-c.md)
 2. [Operators and Boolean Conversion](c/2-operators-bool-conversion.md)
 3. [Conditional Statements](c/3-conditional-statements.md)
