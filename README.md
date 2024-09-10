@@ -3,6 +3,7 @@
 ## [Data Structures and Algorithms](dsa/README.md)
 1. [Basics of Python](dsa/1-basics-of-python.md)
 2. [Algorithm Analysis](dsa/2-algorithm-analysis.md)
+3. [Examples of Algorithm Analysis](dsa/3-examples-of-algorithm-analysis.md)
 
 ## [C++](cpp/README.md)
 1. [Introduction to C++](cpp/1-intro-cpp.md)
@@ -58,7 +59,7 @@
 9. [sed and awk](linux/9-sed-awk.md)
 10. [Shell Scripts](linux/10-shell-scripts.md)
 
-## [C Programming](c/README.md)
+## [C](c/README.md)
 1. [Introduction to C](c/1-intro-c.md)
 2. [Operators and Boolean Conversion](c/2-operators-bool-conversion.md)
 3. [Conditional Statements](c/3-conditional-statements.md)
