@@ -4,6 +4,9 @@
 1. [Basics of Python](dsa/1-basics-of-python.md)
 2. [Algorithm Analysis](dsa/2-algorithm-analysis.md)
 3. [Examples of Algorithm Analysis](dsa/3-examples-of-algorithm-analysis.md)
+4. [Recursion](dsa/4-recursion.md)
+5. [Searching Algorithms](dsa/5-searching.md)
+6. [Simple Sorts](dsa/6-simple-sorts.md)
 
 ## [C++](cpp/README.md)
 1. [Introduction to C++](cpp/1-intro-cpp.md)
