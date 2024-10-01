@@ -6,3 +6,5 @@
 4. [Recursion](4-recursion.md)
 5. [Searching Algorithms](5-searching.md)
 6. [Simple Sorts](6-simple-sorts.md)
+7. [Merge Sort](7-merge-sort.md)
+8. [Quick Sort](8-quick-sort.md)
