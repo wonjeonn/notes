@@ -8,3 +8,5 @@
 6. [Simple Sorts](6-simple-sorts.md)
 7. [Merge Sort](7-merge-sort.md)
 8. [Quick Sort](8-quick-sort.md)
+9. [Linked Lists](9-linked-lists.md)
+10. [Push Front and Pop Front Implementations](10-push-and-pop-front.md)
