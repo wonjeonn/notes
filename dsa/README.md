@@ -10,3 +10,4 @@
 8. [Quick Sort](8-quick-sort.md)
 9. [Linked Lists](9-linked-lists.md)
 10. [Push Front and Pop Front Implementations](10-push-and-pop-front.md)
+11. [Stacks and Queues](11-stacks-and-queues.md)

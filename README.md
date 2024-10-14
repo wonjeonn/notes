@@ -11,6 +11,7 @@
 8. [Quick Sort](dsa/8-quick-sort.md)
 9. [Linked Lists](dsa/9-linked-lists.md)
 10. [Push Front and Pop Front Implementations](dsa/10-push-and-pop-front.md)
+11. [Stacks and Queues](dsa/11-stacks-and-queues.md)
 
 ## [C++](cpp/README.md)
 1. [Introduction to C++](cpp/1-intro-cpp.md)

@@ -20,7 +20,7 @@ A **linked list** is a dynamic data structure where elements (or nodes) are conn
 - **pop_back** – Remove the last item.
 - **insert** – Insert a node at a specific position.
 - **erase** – Remove a node from a specific position.
-- **traversal** – Applie a function to every node in the list.
+- **traversal** – Apply a function to every node in the list.
 
 ### Comparison Between Array-Based Lists and Linked Lists
 
@@ -30,7 +30,7 @@ A **linked list** is a dynamic data structure where elements (or nodes) are conn
   - **Binary search**: If sorted, array-based lists can use binary search for fast lookups (`O(log n)`).
 - **Drawbacks**
   - **Memory waste**: Extra memory is allocated even if not all of it is used.
-  - **Costly insertions and deletions**: Inserting or removing elements, especially in the middle of the list, requires shifting elements, leading to a time complexity of `O(n)`.
+  - **Costly insertions and deletions**: Inserting or removing elements, especially in the middle of the list, requires shifting elements, leading to a time complexity of (`O(n)`).
 
 #### **Linked Lists**
 - **Advantages**
