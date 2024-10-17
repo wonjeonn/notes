@@ -12,6 +12,10 @@
 9. [Linked Lists](dsa/9-linked-lists.md)
 10. [Push Front and Pop Front Implementations](dsa/10-push-and-pop-front.md)
 11. [Stacks and Queues](dsa/11-stacks-and-queues.md)
+12. [Tables](dsa/12-tables.md)
+13. [Hash Tables](dsa/13-hash-tables.md)
+14. [Linear Probing](dsa/14-linear-probing.md)
+
 
 ## [C++](cpp/README.md)
 1. [Introduction to C++](cpp/1-intro-cpp.md)

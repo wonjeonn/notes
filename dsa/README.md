@@ -11,3 +11,6 @@
 9. [Linked Lists](9-linked-lists.md)
 10. [Push Front and Pop Front Implementations](10-push-and-pop-front.md)
 11. [Stacks and Queues](11-stacks-and-queues.md)
+12. [Tables](12-tables.md)
+13. [Hash Tables](13-hash-tables.md)
+14. [Linear Probing](14-linear-probing.md)
