@@ -14,3 +14,5 @@
 12. [Tables](12-tables.md)
 13. [Hash Tables](13-hash-tables.md)
 14. [Linear Probing](14-linear-probing.md)
+15. [Graph](15-graphs.md)
+16. [Dijkstra's Algorithm](16-dijkstras-algorithm.md)

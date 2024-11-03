@@ -15,7 +15,8 @@
 12. [Tables](dsa/12-tables.md)
 13. [Hash Tables](dsa/13-hash-tables.md)
 14. [Linear Probing](dsa/14-linear-probing.md)
-
+15. [Graph](dsa/15-graphs.md)
+16. [Dijkstra's Algorithm](dsa/16-dijkstras-algorithm.md)
 
 ## [C++](cpp/README.md)
 1. [Introduction to C++](cpp/1-intro-cpp.md)
