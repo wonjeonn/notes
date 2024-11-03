@@ -34,7 +34,7 @@ One way to resolve collisions is **chaining**. In this method, each index in the
 
 #### Example of Chaining
 
-Suppose six keys—$k1, k2, k3, k4, k5, k6$—map to the following indices:
+Suppose six keys— $k1, k2, k3, k4, k5, k6$—map to the following indices:
 
 - $k1$ → index 0
 - $k2$ → index $m - 3$

@@ -8,9 +8,9 @@ In open addressing, if the initial index calculated by the hash function is alre
 
 ### Probing Sequence
 When a key $k$ is hashed to index $i$, the probing sequence checks consecutive indices until an empty slot is found:
-$$
-i, (i + 1) \mod m, (i + 2) \mod m, (i + 3) \mod m, \ldots
-$$
+
+$$i, (i + 1) \mod m, (i + 2) \mod m, (i + 3) \mod m, \ldots$$
+
 where $m$ is the size of the table.
 
 ### Table Structure
@@ -98,33 +98,34 @@ Items are marked as **Deleted** without moving other records.
 ### Quadratic Probing
 
 **Quadratic Probing** reduces clustering by increasing the gap between successive probes. Instead of checking the next index linearly, it probes based on a quadratic function:
-$$
-\text{hash}(k) + 1^2, \text{hash}(k) + 2^2, \text{hash}(k) + 3^2, \ldots
-$$
+
+$$\text{hash}(k) + 1^2, \text{hash}(k) + 2^2, \text{hash}(k) + 3^2, \ldots$$
+
 This spreads out the probing sequence, reducing the likelihood of creating long clusters.
 
 #### Example
 If the hash index for $k4$ is 7, the quadratic probe sequence would be:
-$$
-(7 + 0^2) \mod 10, (7 + 1^2) \mod 10, (7 + 2^2) \mod 10, \ldots = 7, 8, 1, 6, \ldots
-$$
+
+$$(7 + 0^2) \mod 10, (7 + 1^2) \mod 10, (7 + 2^2) \mod 10, \ldots = 7, 8, 1, 6, \ldots$$
+
 $k4$ would be inserted at index 1 if indices 7 and 8 are occupied.
 
 ### Double Hashing
 
 **Double Hashing** reduces clustering further by using two hash functions. The first hash function calculates the initial index, and the second hash function provides the offset for probing. The general form is:
-$$
-\{ \text{hash1}(k), (\text{hash1}(k) + \text{hash2}(k)) \mod m, (\text{hash1}(k) + 2 \cdot \text{hash2}(k)) \mod m, \ldots \}
-$$
+
+$$\{ \text{hash1}(k), (\text{hash1}(k) + \text{hash2}(k)) \mod m, (\text{hash1}(k) + 2 \cdot \text{hash2}(k)) \mod m, \ldots \}$$
+
 Double hashing is effective at spreading out the probe sequence, preventing the formation of clusters.
 
 #### Example
 Let:
-- $ \text{hash1}(k1) = 8 $
-- $ \text{hash2}(k1) = 6 $
+
+- $\text{hash1}(k1) = 8$
+- $\text{hash2}(k1) = 6$
 
 The probe sequence would be:
-$$
-8, (8 + 6) \mod 10 = 4, (8 + 2 \cdot 6) \mod 10 = 0, \ldots
-$$
+
+$$8, (8 + 6) \mod 10 = 4, (8 + 2 \cdot 6) \mod 10 = 0, \ldots$$
+
 If $k1$ is placed at index 8, the next record would be placed at index 4 if there’s a collision, and then index 0.
