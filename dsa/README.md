@@ -16,3 +16,4 @@
 14. [Linear Probing](14-linear-probing.md)
 15. [Graph](15-graphs.md)
 16. [Dijkstra's Algorithm](16-dijkstras-algorithm.md)
+17. [Minimum Spanning Trees](17-minimum-spanning-trees.md)
