@@ -18,6 +18,7 @@
 15. [Graph](dsa/15-graphs.md)
 16. [Dijkstra's Algorithm](dsa/16-dijkstras-algorithm.md)
 17. [Minimum Spanning Trees](dsa/17-minimum-spanning-trees.md)
+18. [Trees](dsa/18-trees.md)
 
 ## [C++](cpp/README.md)
 1. [Introduction to C++](cpp/1-intro-cpp.md)

@@ -17,3 +17,4 @@
 15. [Graph](15-graphs.md)
 16. [Dijkstra's Algorithm](16-dijkstras-algorithm.md)
 17. [Minimum Spanning Trees](17-minimum-spanning-trees.md)
+18. [Trees](18-trees.md)
