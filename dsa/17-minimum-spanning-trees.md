@@ -52,7 +52,7 @@ KruskalsMST(G=(V, E)):
 
 ### Example Graph
 
-![graph](https://github.com/user-attachments/assets/a74b90b5-1899-4130-84c9-9a24b9215050)
+![graph](https://github.com/user-attachments/assets/96766d97-975c-4306-99c4-1e5b113c0af8)
 
 Given a graph, assume the edges sorted in non-descending order by weight are: $(C, D), (F, G), (A, B), (D, E), (A, C), (B, E), (E, F), (B, G)$.
 
